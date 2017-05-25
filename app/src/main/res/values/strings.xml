@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">LUCIOUS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="bts">BTS - WINGS : YOU NEVER WALK ALONE (RIGHT VER.) + POSTER</string>
+    <string name="detailbts">STATUS: PRE-SALE / RESERVATION
+\n
+\nRp 270.000
+\nReference: MKBTS22
+\nrelease: 14 Feb 2017
+\nclose pre-sale : 30 Jan 2017
+\n
+\nCD
+\nBooklet
+\nPhotocard (Random)
+\nVersion Poster (Firstpress)</string>
+
+    <string name="exo">EXO - For Life + Poster</string>
+    <string name="detailexo">STATUS: READY STOCK
+\n
+\nRp 275.000
+\nrelease : 15 dec 2016
+\nclose pre-sale : 10 dec 2016
+
+\nCD
+\nPoster (Firstpress)</string>
+
+    <string name="got7">GOT7 - FLIGHT LOG : ARRIVAL (Random ver.)</string>
+    <string name="detailgot7">STATUS: LIMITED PRE-ORDER
+\n
+\nRp 250.000
+\nrelease : 13 Mar 2017
+\nclose po : 3 Mar 2017
+\n
+\nCover (two ver. are different)
+\nCD
+\nPhotobook Set (two ver. are different)
+\nLog Book (Firstpress)
+\nPoster (Firstpress)
+\nClear Album Cover
+\nPhotocard #1 : Making Ver.
+\nPhotocard #2 : Selfie Ver.
+\nPhotocard #3 : Promise Ver.
+\nEvent Card</string>
+
+    <string name="redvelvet">Red Velvet - Russian Roulet + Poster</string>
+    <string name="detailrv">STATUS: READY STOCK
+\n
+\nRp 215.000
+\nReference: MKRV4
+\nrelease : 7 sept 2016
+\nclose pre-sale : 4 sept 2016
+        \n
+\nPoster (first press)</string>
+
+    <string name="snsd">SNSD - You Think + Poster</string>
+    <string name="detailsnsd">STATUS: PRE-SALE / RESERVATION
+\n
+\nRp 225.000
+\nclose pre-sale : 25 aug 23:59
+\npre-sale gift : 1 member unofficial photocard (bisa pilih)</string>
+
+    <string name="girlsday">Girls Day - GIRLS DAY EVERYDAY 5 + Poster</string>
+    <string name="detailgsd">STATUS:
+\n
+\nRp 235.000
+\nrelease : 29 mar 2017</string>
+
+    <string name="about">OUR COMPANY
+\nLokasi kami di Bandung dan untuk saat ini hanya Online belum membuka Toko.
+\nOrder hanya melalui web ini.
+ \n
+\nTutup PO regular setiap tanggal 5, 15 dan 25 setiap bulan nya.
+\nKorea Album / Goods yang belum release tutup 2 hari sebelum tutup PO
+\nJapan Album yang belum maupun sudah release tutup mengikuti PO regular terdekat
+\nReplika China tutup setiap tanggal 15
+ \n
+\nMoto Kami : "Fullfill Your Fangirling and Fanboying Needs"
+ \n
+\nSeperti Moto kami, kami menyediakan berbagai macam Kpop items baik yang di Korea.</string>
+
+    <string name="socmed">Online Shop kami terdapat diberbagai social media, yaitu:
+        \n
+\nFacebook : Lucious K-House
+        \n
+\nTwitter : @luciouskshop
+        \n
+\nWeb : www.luciouskstore.com
+        \n
+\nFJB Kaskus : luciouskstore
+        \n
+    \nEmail :  luciouskhouse@yahoo.com</string>
+
+</resources>
